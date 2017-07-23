@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckWeather</string>
+    <string name="background">background</string>
+    <string name="enter_a_city">Enter a City</string>
+    <string name="check_weather">Check Weather</string>
+    <string name="textview">TextView</string>
+</resources>
